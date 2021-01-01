@@ -76,7 +76,6 @@ const Projects = () => {
                     distance="30px"
                   >
                     <div className="project-wrapper__image">
-                
                       <a target="_blank" aria-label="Project Link" rel="noopener noreferrer">
                         <Tilt
                           options={{
