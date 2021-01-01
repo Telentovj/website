@@ -8,7 +8,7 @@ import Title from '../Title/Title';
 import './line.css';
 import AboutImg from '../Image/AboutImg';
 
-const buffer = 'rgb(211, 223, 242)';
+const buffer = 'rgb(255, 255, 255)';
 
 const Work = () => {
   return (
@@ -19,10 +19,10 @@ const Work = () => {
           <VerticalTimeline className="vertical-timeline-custom-line">
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
-              contentStyle={{ background: buffer, color: '#000000' }}
-              contentArrowStyle={{ borderRight: '7px solid  rgb(211, 223, 242)' }}
+              contentStyle={{ background: "rgb(255, 255, 255)", boxShadow: '0 0 0 0px', color: '#000000'}}
+              contentArrowStyle={{ borderRight: '7px solid  rgb(255, 255, 255)' }}
               date="Dec 2020 - present"
-              iconStyle={{ background: buffer, color: '#000000' }}
+              iconStyle={{ background: "rgb(0,0,0)", color: '#ffffff', boxShadow: '0 0 0 0px' }}
               icon={<BsBriefcase />}
             >
               <AboutImg alt="profile picture" filename="avatar.png" />
@@ -33,7 +33,7 @@ const Work = () => {
               <p>
                 <h6>
                   Analytics done using ElasticSearch, Akamai, DataMeer and Kibena. Did front-end Web
-                  Development for website using Gatsby and GraphQL. learning
+                  Development for website using Gatsby and GraphQL
                 </h6>
               </p>
             </VerticalTimelineElement>
