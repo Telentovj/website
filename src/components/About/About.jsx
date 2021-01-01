@@ -24,7 +24,7 @@ const About = () => {
 
   return (
     <section id="about">
-      <Container>
+      <Container className="container">
         <Title title="About Me" />
         <Row className="about-wrapper">
           <Col md={6} sm={12}>
