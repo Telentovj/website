@@ -28,7 +28,7 @@ const Projects = () => {
         <div className="project-wrapper">
           <Title title="Projects" />
           {projects.map((project) => {
-            const { title, info, info2, url, repo, img, id, cert } = project;
+            const { title, info, info2, repo, img, id, cert } = project;
 
             return (
               <Row key={id}>
@@ -76,11 +76,8 @@ const Projects = () => {
                     distance="30px"
                   >
                     <div className="project-wrapper__image">
-                      <a
-                        target="_blank"
-                        aria-label="Project Link"
-                        rel="noopener noreferrer"
-                      >
+                      // eslint-disable-next-line jsx-a11y/anchor-is-valid
+                      <a target="_blank" aria-label="Project Link" rel="noopener noreferrer">
                         <Tilt
                           options={{
                             reverse: false,
