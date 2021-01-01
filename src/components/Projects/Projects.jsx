@@ -76,7 +76,7 @@ const Projects = () => {
                     distance="30px"
                   >
                     <div className="project-wrapper__image">
-                      // eslint-disable-next-line jsx-a11y/anchor-is-valid
+                
                       <a target="_blank" aria-label="Project Link" rel="noopener noreferrer">
                         <Tilt
                           options={{
