@@ -33,7 +33,7 @@ const Work = () => {
               <p>
                 <h6>
                   Analytics done using ElasticSearch, Akamai, DataMeer and Kibena. Did front-end Web
-                  Development for website using Gatsby and GraphQL. learning
+                  Development for website using Gatsby and GraphQL. 
                 </h6>
               </p>
             </VerticalTimelineElement>
