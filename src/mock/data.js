@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'face.jpg',
   paragraphOne:
-    'I am passionate about analytics and anything that has to do with data. Just like any data enthusiastic, i enjoy analyzing and discovering hidden insights within a datasets. More importantly, I believe that my strength lies with the presentation and application of these findings.',
+    'I am passionate about analytics and anything that has to do with data. Just like any data enthusiast, i enjoy analyzing and discovering hidden insights within a datasets. More importantly, I believe that my strength lies with the presentation and application of these findings.',
   paragraphTwo:
     'I also dabble with software engineering. My most extensive project thus far is an app called recipeMine that was uses flutter and Firebase.',
   paragraphThree: ' ',
