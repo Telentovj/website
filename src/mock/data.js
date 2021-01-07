@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I also dabble with software engineering. My most extensive project thus far is an app called recipeMine that was uses flutter and Firebase.',
   paragraphThree: ' ',
-  resume: 'https://drive.google.com/file/d/1RjeRbye4iRa07YoFH3SMKVJgfEzci970/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1bedkdrd_pfQXPF1slkcVsrTgqaSx84pU/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
