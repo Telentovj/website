@@ -61,7 +61,7 @@ export const projectsData = [
     // url: '',
     repo:
       'https://medium.com/@kahhe_lee/maximize-trading-profits-predicting-energy-consumption-with-advance-neural-networks-deep-aec940d615f2', // if no repo, the button will not show up
-    cert: 'https://drive.google.com /file/d/1fIpjYIlmu-w0paFbMzEij0eibkuRHBLt/view?usp=sharing',
+    cert: 'https://drive.google.com/file/d/1fIpjYIlmu-w0paFbMzEij0eibkuRHBLt/view?usp=sharing',
   },
 ];
 
